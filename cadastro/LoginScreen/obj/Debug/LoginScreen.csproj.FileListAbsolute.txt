@@ -1,0 +1,26 @@
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.splash_screen.resources
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\obj\Debug\LoginScreen.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\obj\Debug\LoginScreen.splash_screen.resources
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\bin\Debug\Database1.mdf
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\bin\Debug\Database1_log.ldf
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\obj\Debug\LoginScreen.FrmPessoas.resources
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\obj\Debug\LoginScreen.FrmPrincipal.resources
+C:\Users\PC\Downloads\loginscreen---splash-screen-source-code-by-iweb-makers\LoginScreen + Splash Screen\LoginScreen\obj\Debug\LoginScreen.FrmJogos.resources

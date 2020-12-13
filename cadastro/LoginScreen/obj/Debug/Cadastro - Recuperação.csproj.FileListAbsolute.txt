@@ -1,0 +1,15 @@
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\bin\Debug\Database1.mdf
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\bin\Debug\Database1_log.ldf
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\obj\Debug\Cadastro - Recuperação.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\obj\Debug\LoginScreen.FrmJogos.resources
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\obj\Debug\LoginScreen.FrmPessoas.resources
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\obj\Debug\LoginScreen.FrmPrincipal.resources
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\obj\Debug\LoginScreen.splash_screen.resources
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\obj\Debug\Cadastro - Recuperação.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\obj\Debug\Cadastro - Recuperação.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\PC\Downloads\cadastro\cadastro\LoginScreen\obj\Debug\LoginScreen.pdb
